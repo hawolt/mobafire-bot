@@ -17,6 +17,8 @@ votebot:
 * proxiware.com
 * anticaptcha
 
+feel free to fork the project and modify the code if you want to use other proxy providers, this is a as-is dump of my source
+
 to build the project run
 
 ```bash
