@@ -8,8 +8,14 @@ software requirements
 
 other requirements
 
+viewbot:
+
 * brightdata.com
 * proxiware.com
+
+votebot:
+
+* anticaptcha
 
 to build the project run
 
