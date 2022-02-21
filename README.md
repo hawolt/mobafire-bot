@@ -11,10 +11,10 @@ other requirements
 viewbot:
 
 * brightdata.com
-* proxiware.com
 
 votebot:
 
+* proxiware.com
 * anticaptcha
 
 to build the project run
